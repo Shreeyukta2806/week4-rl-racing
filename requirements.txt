@@ -1,0 +1,6 @@
+gymnasium>=0.26.0
+stable-baselines3>=2.0.0
+pygame>=2.5.0
+numpy>=1.24.0
+# torch should already be installed from your CEAM Week 2 setup (cu128 build)
+# If not: pip install torch --index-url https://download.pytorch.org/whl/cu128
