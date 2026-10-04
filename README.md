@@ -4,6 +4,11 @@ A 2D autonomous racing agent trained with **Proximal Policy Optimization (PPO)**
 
 ---
 
+## DEMO (VIDEO PLAY LINK)
+[Watch the trained agent drive the full track →] https://youtube.com/shorts/rNKtpMewuB0?feature=share
+
+
+
 ## Results
 
 | | Untrained (random) | Trained (150k steps) |
@@ -104,6 +109,9 @@ week4-rl-racing/
 ├── logs/                  ← Monitor CSVs + TensorBoard logs
 └── requirements.txt
 ```
+
+## DEMO (VIDEO PLAY LINK)
+[Watch the trained agent drive the full track →] https://youtube.com/shorts/rNKtpMewuB0?feature=share
 
 ---
 
